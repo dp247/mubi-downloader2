@@ -1,2 +1,8 @@
 requests
 beautifulsoup4
+protobuf==3.19.5
+pycryptodome
+pycryptodomex
+xmltodict
+pymkv2
+python-iso639
